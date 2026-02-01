@@ -1,0 +1,11 @@
+<Solution>
+  <Folder Name="/src/">
+    <Project Path="src/BoricuaCoder.CleanTemplate.Api/BoricuaCoder.CleanTemplate.Api.csproj" />
+    <Project Path="src/BoricuaCoder.CleanTemplate.Application/BoricuaCoder.CleanTemplate.Application.csproj" />
+    <Project Path="src/BoricuaCoder.CleanTemplate.Domain/BoricuaCoder.CleanTemplate.Domain.csproj" />
+    <Project Path="src/BoricuaCoder.CleanTemplate.Infrastructure/BoricuaCoder.CleanTemplate.Infrastructure.csproj" />
+  </Folder>
+  <Folder Name="/tests/">
+    <Project Path="tests/BoricuaCoder.CleanTemplate.UnitTests/BoricuaCoder.CleanTemplate.UnitTests.csproj" />
+  </Folder>
+</Solution>
