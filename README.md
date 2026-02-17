@@ -1,5 +1,7 @@
 # BoricuaCoder Clean Template (Without Dogma)
 
+[![.NET](https://img.shields.io/badge/.NET-10.0-512BD4)](https://dotnet.microsoft.com/download/dotnet/10.0)
+
 A pragmatic .NET 10 Clean Architecture starter template. Production-ready, minimal ceremony, easy to extend.
 
 ## Architecture
