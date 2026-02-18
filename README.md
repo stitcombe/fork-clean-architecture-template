@@ -34,6 +34,14 @@ Domain references nothing. Infrastructure implements the ports defined in Applic
 
 ## Getting Started
 
+### Quick Scaffold (CLI Script)
+
+```bash
+./scaffold.sh --name MyCompany.MyService --output ../
+```
+
+This creates `../MyCompany.MyService` with project names and namespaces updated from `BoricuaCoder.CleanTemplate`.
+
 ### Prerequisites
 
 - [.NET 10 SDK](https://dotnet.microsoft.com/download)
