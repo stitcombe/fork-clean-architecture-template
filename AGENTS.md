@@ -19,6 +19,11 @@ This file provides quick guidance for LLM/code agents working in this repository
 - Test: `dotnet test`
 - Run API: `dotnet run --project src/BoricuaCoder.CleanTemplate.Api`
 
+## Scaffold Options
+
+- Bash: `./scaffold.sh --name MyCompany.MyService --output ../`
+- PowerShell: `./scaffold.ps1 -Name MyCompany.MyService -Output ../`
+
 ## Implementation Notes
 
 - Keep changes minimal and consistent with the existing structure.
