@@ -40,6 +40,10 @@ Domain references nothing. Infrastructure implements the ports defined in Applic
 ./scaffold.sh --name MyCompany.MyService --output ../
 ```
 
+```powershell
+./scaffold.ps1 -Name MyCompany.MyService -Output ../
+```
+
 This creates `../MyCompany.MyService` with project names and namespaces updated from `BoricuaCoder.CleanTemplate`.
 
 ### Prerequisites
